@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 02 Oct 2022 06:35:20 at https://www.mayoclinic.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.mayoclinic.org/ -O1 "C:\inetrship\heath3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:37:41	Error: 	Exit requested by shell or user
+06:37:41	Warning: 	File not added due to mirror cancel: https://www.mayoclinic.org/es-es/coronavirus-covid-19/vaccine
+06:37:42	Error: 	"Not Found" (404) at link https://www.mayoclinic.org/ak.m (from https://www.mayoclinic.org/)
+06:37:42	Error: 	"Not Found" (404) at link https://www.mayoclinic.org/ak.t (from https://www.mayoclinic.org/)
+06:37:42	Error: 	"Not Found" (404) at link https://www.mayoclinic.org/includes/ux-component-a11y/demo/accessibility-combined.css (from https://www.mayoclinic.org/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 45 seconds : 130 links scanned, 126 files written (9608241 bytes overall) [2945750 bytes received at 17853 bytes/sec], 8955946 bytes transferred using HTTP compression in 115 files, ratio 23%, 26.8 requests per connection
+(4 errors, 1 warnings, 0 messages)
